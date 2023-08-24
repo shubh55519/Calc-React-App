@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Built a simple and interactive UI fully responsive to mobile and desktop.
+Performing mathematical operation to display proper calculation and do not display for wrong input calculation hosted on netlify.
+Used maths.js library for to minimize working over mathematical calculation.
