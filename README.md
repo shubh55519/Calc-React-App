@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Built a simple and interactive UI fully responsive to mobile and desktop.
 Performing mathematical operation to display proper calculation and do not display for wrong input calculation hosted on netlify.
 Used maths.js library for to minimize working over mathematical calculation.
+
